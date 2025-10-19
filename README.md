@@ -1,4 +1,3 @@
-md
 # React CRUD Application
 
 ## Overview
@@ -156,3 +155,4 @@ This project is open-source and available under the [MIT License](LICENSE). (If 
 
 -   This project was inspired by the need for a simple and effective CRUD application template.
 -   Uses Create React App ([https://create-react-app.dev/](https://create-react-app.dev/))
+
