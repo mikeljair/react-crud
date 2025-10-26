@@ -83,8 +83,6 @@ Follow these steps to get the project up and running:
 
 ### Frontend Usage
 
-The frontend provides a user interface to interact with the CRUD operations.  It allows you to create, read, update, and delete data entries.  Refer to the React components in the `react-crud/src` directory for detailed implementation.
-
 ### Backend API
 
 The backend exposes the following API endpoints (example, adjust as per your actual implementation):
